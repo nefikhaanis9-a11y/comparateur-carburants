@@ -43,7 +43,7 @@ Exemple :
 ```
 Ville : Aubergenville
 📍 Ville retenue : Aubergenville (78410)
-Rayon en km (1 à 30) : 10
+Rayon en km (1 à 30) : 15
 
 🏆 TOP 3 — PRIX FIABLES
 
