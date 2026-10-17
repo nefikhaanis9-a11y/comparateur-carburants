@@ -2,7 +2,7 @@
 
 Outil Python qui trouve les stations-service les moins chères autour d'une ville, à partir des données ouvertes du ministère de l'Économie, **et qui vérifie que les prix affichés sont encore à jour**.
 
-<img width="889" height="374" alt="image" src="https://github.com/user-attachments/assets/1214311e-3fbd-4feb-b674-5166f191f846" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/5fd7465f-4700-4b35-a204-0b17ee1e2633" />
 
 ---
 
